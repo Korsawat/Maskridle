@@ -70,15 +70,15 @@ const AnswerBox = ({ chosenCharacter, guesses = [], difficulty }) => {
               <td {...getComparisonStyle(chosenCharacter, guess, 'Affiliation')}>{guess.Affiliation}</td>
               <td {...getComparisonStyle(chosenCharacter, guess, 'First appear')}>{guess["First appear"]}</td>
               <td {...getComparisonStyle(chosenCharacter, guess, 'Ep')}>
-                {guess.Ep}{getComparisonStyle(chosenCharacter, guess, 'Ep').className === 'higher' ? '⬇️' : getComparisonStyle(chosenCharacter, guess, 'Ep').className === 'lower' ? '⬆️' : ''}
+                {guess.Ep}{getComparisonStyle(chosenCharacter, guess, 'Ep').className === 'higher' ? '⬆️' : getComparisonStyle(chosenCharacter, guess, 'Ep').className === 'lower' ? '⬇️' : ''}
               </td>
               <td {...getComparisonStyle(chosenCharacter, guess, 'Form')}>
-                {guess.Form}{getComparisonStyle(chosenCharacter, guess, 'Form').className === 'higher' ? '⬇️' : getComparisonStyle(chosenCharacter, guess, 'Form').className === 'lower' ? '⬆️' : ''}
+                {guess.Form}{getComparisonStyle(chosenCharacter, guess, 'Form').className === 'higher' ? '⬆️' : getComparisonStyle(chosenCharacter, guess, 'Form').className === 'lower' ? '⬇️' : ''}
               </td>
               <td {...getComparisonStyle(chosenCharacter, guess, 'Era')}>{guess.Era}</td>
               {difficulty === 'easy' && (
                 <td {...getComparisonStyle(chosenCharacter, guess, 'Release')}>
-                  {guess.Release}{getComparisonStyle(chosenCharacter, guess, 'Release').className === 'higher' ? '⬇️' : getComparisonStyle(chosenCharacter, guess, 'Release').className === 'lower' ? '⬆️' : ''}
+                  {guess.Release}{getComparisonStyle(chosenCharacter, guess, 'Release').className === 'higher' ? '⬆️' : getComparisonStyle(chosenCharacter, guess, 'Release').className === 'lower' ? '⬇️' : ''}
                 </td>
               )}
             </tr>
