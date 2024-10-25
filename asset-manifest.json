@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Maskridle/static/css/main.97e22dfa.chunk.css",
+    "main.css": "/Maskridle/static/css/main.b90995f5.chunk.css",
     "main.js": "/Maskridle/static/js/main.069f3456.chunk.js",
     "main.js.map": "/Maskridle/static/js/main.069f3456.chunk.js.map",
     "runtime~main.js": "/Maskridle/static/js/runtime~main.697762b8.js",
@@ -10,9 +10,9 @@
     "static/js/3.a29efab2.chunk.js": "/Maskridle/static/js/3.a29efab2.chunk.js",
     "static/js/3.a29efab2.chunk.js.map": "/Maskridle/static/js/3.a29efab2.chunk.js.map",
     "index.html": "/Maskridle/index.html",
-    "precache-manifest.d1f2f43ad3702347c17304ceb68e87e1.js": "/Maskridle/precache-manifest.d1f2f43ad3702347c17304ceb68e87e1.js",
+    "precache-manifest.ef6cfc678557904bb09fec54bc0e0a21.js": "/Maskridle/precache-manifest.ef6cfc678557904bb09fec54bc0e0a21.js",
     "service-worker.js": "/Maskridle/service-worker.js",
-    "static/css/main.97e22dfa.chunk.css.map": "/Maskridle/static/css/main.97e22dfa.chunk.css.map",
+    "static/css/main.b90995f5.chunk.css.map": "/Maskridle/static/css/main.b90995f5.chunk.css.map",
     "static/media/maskrider.csv": "/Maskridle/static/media/maskrider.48807c4a.csv"
   }
 }
