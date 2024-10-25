@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18fc43d850bb4044ee21740f7ad281f2",
+    "revision": "334baab925f2b65629e80c9204db0501",
     "url": "/Maskridle/index.html"
   },
   {
-    "revision": "2c0575e2699185cecfec",
+    "revision": "5ede86483c0fc11706eb",
     "url": "/Maskridle/static/css/main.b90995f5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Maskridle/static/js/3.a29efab2.chunk.js"
   },
   {
-    "revision": "2c0575e2699185cecfec",
-    "url": "/Maskridle/static/js/main.069f3456.chunk.js"
+    "revision": "5ede86483c0fc11706eb",
+    "url": "/Maskridle/static/js/main.38dbce6b.chunk.js"
   },
   {
     "revision": "74b4b32b160a4d1d3b5c",

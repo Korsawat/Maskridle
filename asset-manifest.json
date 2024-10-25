@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Maskridle/static/css/main.b90995f5.chunk.css",
-    "main.js": "/Maskridle/static/js/main.069f3456.chunk.js",
-    "main.js.map": "/Maskridle/static/js/main.069f3456.chunk.js.map",
+    "main.js": "/Maskridle/static/js/main.38dbce6b.chunk.js",
+    "main.js.map": "/Maskridle/static/js/main.38dbce6b.chunk.js.map",
     "runtime~main.js": "/Maskridle/static/js/runtime~main.697762b8.js",
     "runtime~main.js.map": "/Maskridle/static/js/runtime~main.697762b8.js.map",
     "static/js/2.e1a6285c.chunk.js": "/Maskridle/static/js/2.e1a6285c.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.a29efab2.chunk.js": "/Maskridle/static/js/3.a29efab2.chunk.js",
     "static/js/3.a29efab2.chunk.js.map": "/Maskridle/static/js/3.a29efab2.chunk.js.map",
     "index.html": "/Maskridle/index.html",
-    "precache-manifest.ef6cfc678557904bb09fec54bc0e0a21.js": "/Maskridle/precache-manifest.ef6cfc678557904bb09fec54bc0e0a21.js",
+    "precache-manifest.f38fbfdb4afd97f8428b5597e145601e.js": "/Maskridle/precache-manifest.f38fbfdb4afd97f8428b5597e145601e.js",
     "service-worker.js": "/Maskridle/service-worker.js",
     "static/css/main.b90995f5.chunk.css.map": "/Maskridle/static/css/main.b90995f5.chunk.css.map",
     "static/media/maskrider.csv": "/Maskridle/static/media/maskrider.48807c4a.csv"
