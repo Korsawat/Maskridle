@@ -91,7 +91,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Mask Rider Guessing Game</h1>
+      <h1>MASK RIDLE</h1>
       <DifficultySelector setDifficulty={setDifficulty} />
 
       <div className="guess-info">
